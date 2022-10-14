@@ -4,8 +4,8 @@
  🤓 Fun fact: A 5MB hard drive weighed 1 ton in 1956.
  
 ###  How to reach me 📫
- 📧 Send me an e-mail: shaytom71@gmail.com
- 💼 Connecting and sharing professional updates on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/caiqueoac/](https://www.linkedin.com/in/shaylopes/ ) 
+📧 Send me an e-mail: shaytom71@gmail.com
+💼 Connecting and sharing professional updates on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/caiqueoac/](https://www.linkedin.com/in/shaylopes/ ) 
 
 
 <!---
