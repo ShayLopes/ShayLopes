@@ -1,8 +1,8 @@
 ###  Hi, I’m Shay Lopes 👋
 
- 📖  I"m currently studing on Trybe.
+ 📖  Currently studying on Trybe.
  
- 🤔  I'm web dev and automation dev.
+ 🤔  Web and automation dev.
  
  🤓  Fun fact: A 5MB hard drive weighed 1 ton in 1956.
  
