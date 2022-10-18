@@ -1,6 +1,6 @@
 ###  Hi, I’m Shay Lopes 👋
 
- 📖  Currently studying on Trybe.
+ 📖  Currently studying at Trybe.
  
  🤔  Web and automation dev.
  
