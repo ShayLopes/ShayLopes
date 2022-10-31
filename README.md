@@ -12,7 +12,7 @@
  
  🛠  [Portfolio](https://shaylopes.github.io/portfolio/)
  
- 💼  Connecting and sharing professional updates on  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/caiqueoac/](https://www.linkedin.com/in/shaylopes/ ) 
+ 💼  Connecting and sharing professional updates on [Linkedgin](https://www.linkedin.com/in/shaylopes/) 
 
 
 <!---
