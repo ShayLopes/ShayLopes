@@ -12,7 +12,7 @@
  
  🛠  [Portfolio](https://shaylopes.github.io/portfolio/)
  
- 💼  Connecting and sharing professional updates on [Linkedgin](https://www.linkedin.com/in/shaylopes/) 
+ 💼  Connecting and sharing professional updates on [Linkedin](https://www.linkedin.com/in/shaylopes/) 
 
 
 <!---
